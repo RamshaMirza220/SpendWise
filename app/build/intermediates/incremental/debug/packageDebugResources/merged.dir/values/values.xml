@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">752052050881</string>
+    <string name="google_api_key" translatable="false">AIzaSyA8b8QnBydBgAaPQvTfYYxFNP9DaNHKR0Y</string>
+    <string name="google_app_id" translatable="false">1:752052050881:android:5d027f857789035493ad40</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA8b8QnBydBgAaPQvTfYYxFNP9DaNHKR0Y</string>
+    <string name="google_storage_bucket" translatable="false">spendwise-b2b29.firebasestorage.app</string>
+    <string name="project_id" translatable="false">spendwise-b2b29</string>
+    <style name="Theme.SpendWise" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
